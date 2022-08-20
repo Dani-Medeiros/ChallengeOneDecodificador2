@@ -58,6 +58,7 @@ body {
 }
 
 .informacao {
+  padding: 5px;
   font-size: 12px;
 }
 
@@ -99,12 +100,13 @@ footer p {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    margin: auto;
     margin-bottom: 30px;
+    padding: auto;
   }
 
   .sessao-um {
     display: grid;
+    padding: 10px;
   }
 
   .sessao-dois {
